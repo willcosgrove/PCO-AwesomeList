@@ -1,0 +1,3 @@
+class AwesomeList
+
+end
